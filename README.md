@@ -113,5 +113,3 @@ public class ReverseString {
 
 - Para o Desafio 2, o número pode ser informado através de qualquer entrada de preferência ou pode ser previamente definido no código.
 - Evite usar funções prontas, como `reverse`, para o Desafio 5.
-
-Fique à vontade para explorar as soluções implementadas neste repositório!
