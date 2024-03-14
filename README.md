@@ -71,10 +71,12 @@ f) 2, 10, 12, 16, 17, 18, 19, **20**
 Você está em uma sala com três interruptores, cada um conectado a uma lâmpada em uma sala diferente. Descubra, usando apenas duas idas até uma das salas das lâmpadas, qual interruptor controla cada lâmpada.
 
 ### Resposta
-1. Ligue um interruptor e aguarde alguns minutos.
-2. Desligue esse interruptor e ligue outro.
-3. Entre na sala onde está a lâmpada acesa.
-4. O interruptor que foi ligado e desligado e o que está ligado na sala são respectivamente ligados à lâmpada.
+1. Ligue o primeiro interruptor e espere por cerca de 10 minutos.
+2. Desligue o primeiro interruptor e ligue o terceiro interruptor.
+3. Vá até a sala das lâmpadas.
+
+### Explicacao:
+Ao acionar o primeiro interruptor por 10 minutos, a lâmpada irá aquecer. Em seguida, desligo o primeiro interruptor novamente. Depois, ligo o terceiro interruptor. Então, vou até uma sala. Se a lâmpada estiver apagada e fria, sei que o segundo interruptor é o responsável por ela. Em seguida, dirijo-me à segunda sala. Se a lâmpada estiver quente e acesa, sei que o primeiro interruptor está ligado, enquanto o terceiro é o que acabei de ligar.
 
 ## Desafio 5
 
@@ -105,6 +107,7 @@ public class ReverseString {
     }
 }
 ```
+[Link para a pasta do desafios](estagio_ribeirao_2024/src/main/java/org/example/desafios/StringRevert.java)
 
 ## Importante
 
