@@ -8,20 +8,10 @@ Este repositório contém soluções para uma série de desafios propostos pela 
 Dado o trecho de código abaixo, determine o valor da variável SOMA ao final do processamento.
 
 ```java
- public static void main(String[] args) {
-        //Padrao no braco
-        int indice = 13;
-        int soma = 0;
-
-        for (int key = 1; key <= indice; key++) {
-            soma += key;
-        }
-
-        System.out.println(soma);
-
-        //Simplificado kk
-        int somaSimple = (indice * (indice + 1)) / 2;
-        System.out.println(somaSimple);
+int INDICE = 13, SOMA = 0, K = 0;
+while (K < INDICE) {
+    K = K + 1;
+    SOMA = SOMA + K;
 }
 ```
 
