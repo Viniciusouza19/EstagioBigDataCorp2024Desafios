@@ -1,6 +1,6 @@
-# Desafios para Target 2024
+# Desafios para Estagio BigDataCorp 2024
 
-Este repositório contém soluções para uma série de desafios propostos pela Target. Todos os códigos estão implementados em Java na pasta `src/main/java/org.example.desafios`.
+Este repositório contém soluções para uma série de desafios propostos pela BigDataCorp. Todos os códigos estão implementados em Java na pasta `src/main/java/org.example.desafios`.
 
 ## Desafio 1
 
