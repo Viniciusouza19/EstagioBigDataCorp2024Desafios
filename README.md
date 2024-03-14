@@ -41,8 +41,8 @@ public class Fibonacci {
     }
 }
 ```
-[Link Codigo!](estagio_ribeirao_2024/src/main/java/org/example
-/desafios)
+[Link para a pasta do desafios](estagio_ribeirao_2024/src/main/java/org/example/desafios/Fibonacci.java)
+
 
 
 ## Desafio 3
